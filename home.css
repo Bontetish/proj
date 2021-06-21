@@ -1,0 +1,42 @@
+.left{
+	text-align: center;
+	height: 600px;
+	background-color: #FF6347;
+	
+
+}
+.navbar{
+	background-color:  #2F4F4F;
+}
+
+.right{
+	text-align: center;
+	height: 600px;
+	background-color: #99ff99;
+	}
+	.body{
+		padding: 10px;
+	}
+	
+	.prod{border: 0px;
+		background-color: #99ff99;
+		border-radius: 5px;
+		padding: 32px;
+	}
+	.badge{
+		background-color: blue;
+	}
+	.container1{
+		padding: 10px;
+		margin-top: 50px;
+	}
+	.image{
+		height: 50px;
+	}
+	body{
+		background: url(images/i1.jpeg);
+	}
+	.link: hover{
+		background-color: blue;
+
+	}

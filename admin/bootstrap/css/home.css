@@ -1,0 +1,33 @@
+body{
+	background-color: white;
+}
+.nav{
+	height: 50px;
+	background-color:  #48D1CC;
+	font-size: larger;
+	border: 2px;
+	shape-margin: 2px;
+}
+/*.left{
+	height: 500px;
+	background-color: #AFEEEE;
+
+}
+.main{
+	height: 500px;
+	background-color:  #6A5ACD;
+	opacity: .5;
+
+}
+.right{
+	height: 500px;
+	text-align: center;
+	background-color: #AFEEEE;
+
+}
+.login{
+	align-self: center;
+}*/
+#collapselogin{
+	background-color: green;
+}-->
